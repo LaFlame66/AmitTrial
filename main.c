@@ -3,8 +3,11 @@
 #include "GitStuff.h"
 int main()
 {
-    //printf("SUM IS %d\n",(sum(3,4)));
-    isPalindrome(121);
-
+    int x,y;
+    x=54;
+    y=34;
+    printf("SUM IS %d\n",sum(x,y));
+    printf("\nEVEN = %d, ODD = %d\n",!is_even(sum(x,y)), is_even(sum(x,y)));
+    palindrome(312);
     return 0;
 }

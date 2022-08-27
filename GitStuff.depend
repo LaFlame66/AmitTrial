@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1661588740 source:c:\users\resid\desktop\amit\trials\gitstuff\gitstuff.c
+1661591765 source:c:\users\resid\desktop\amit\trials\gitstuff\gitstuff.c
 
-1661588543 source:c:\users\resid\desktop\amit\trials\gitstuff\main.c
+1661591804 source:c:\users\resid\desktop\amit\trials\gitstuff\main.c
 	<stdio.h>
 	<stdlib.h>
 	"GitStuff.h"
 
-1661588740 c:\users\resid\desktop\amit\trials\gitstuff\gitstuff.h
+1661591784 c:\users\resid\desktop\amit\trials\gitstuff\gitstuff.h
 
