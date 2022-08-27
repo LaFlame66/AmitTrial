@@ -12,10 +12,11 @@ void isPalindrome(int x){
        temp / 10;
        c++;
     }
-
-for(int i=0;i<c;i++){
-    first=x % 10;
-    last= x / power(10,c-1);
+while(c>0){
+    temp=x;
+    first=temp % 10;
+    last= temp / power(10,c-1);
+    c--;
     if(first==last){
         status='t';
     }else{
